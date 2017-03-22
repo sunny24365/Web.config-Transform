@@ -2,3 +2,9 @@ C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Micros
 C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Config Transform\1.0\\Web.config Transform.pdb
 C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Config Transform\1.0\\Web.config Transform.pkgdef
 C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Config Transform\1.0\\extension.vsixmanifest
+C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Web.config Transform\1.0\\Web.config Transform.dll
+C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Web.config Transform\1.0\\Web.config Transform.pdb
+C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Web.config Transform\1.0\\Web.config Transform.pkgdef
+C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Web.config Transform\1.0\\extension.vsixmanifest
+C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Web.config Transform\1.0\\EULA.rtf
+C:\Users\n9942734\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft\Web.config Transform\1.0\\main.jpg
