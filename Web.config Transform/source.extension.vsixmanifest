@@ -2,10 +2,10 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Id="Web.config_Transform.Microsoft.f9d817e7-9cf6-40cc-b7cf-dd1534097d52" Version="1.0" Language="en-US" Publisher="Microsoft" />
-    <DisplayName>Config Transform</DisplayName>
+    <DisplayName>Web.config Transform</DisplayName>
     <Description xml:space="preserve">Transforms all Web.config's in a solution based on Environment selected in Configuration ManagerTransforms all Web.config's in a solution based on Environment selected in Configuration Manager </Description>
     <MoreInfo>https://github.com/sunny24365/Web.config-Transform/wiki</MoreInfo>
-    <License>Apache License 2.0</License>
+    <License>EULA.rtf</License>
     <PreviewImage>main.jpg</PreviewImage>
     <Tags>web.config, transform, config</Tags>
   </Metadata>
