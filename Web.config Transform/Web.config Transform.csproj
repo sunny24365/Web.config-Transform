@@ -60,10 +60,62 @@
     <Compile Include="TransformHelper.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\Web.config Transform.dll" />
+    <Content Include="bin\Release\EnvDTE.dll" />
+    <Content Include="bin\Release\EnvDTE100.dll" />
+    <Content Include="bin\Release\EnvDTE80.dll" />
+    <Content Include="bin\Release\EnvDTE90.dll" />
+    <Content Include="bin\Release\EnvDTE90a.dll" />
+    <Content Include="bin\Release\extension.vsixmanifest" />
+    <Content Include="bin\Release\Microsoft.MSXML.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.CommandBars.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.CoreUtility.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.CoreUtility.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.GraphModel.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.ImageCatalog.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.ImageCatalog.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Imaging.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Imaging.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.OLE.Interop.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.OLE.Interop.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.ProjectAggregator.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.14.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.14.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.14.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Immutable.14.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Interop.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Shell.Interop.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Threading.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Threading.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Utilities.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Utilities.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Validation.dll" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.Validation.xml" />
+    <Content Include="bin\Release\Microsoft.VisualStudio.VSHelp.dll" />
+    <Content Include="bin\Release\stdole.dll" />
+    <Content Include="bin\Release\Web.config Transform.dll" />
+    <Content Include="bin\Release\Web.config Transform.pkgdef" />
     <Content Include="EULA.rtf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <None Include="bin\Release\Web.config Transform.vsix" />
     <None Include="Key.snk" />
     <None Include="packages.config" />
     <None Include="source.extension.vsixmanifest">
