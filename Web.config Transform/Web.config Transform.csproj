@@ -72,6 +72,10 @@
       <SubType>Designer</SubType>
     </VSCTCompile>
     <Content Include="index.html" />
+    <Content Include="main.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Resources\ConfigTransform.png" />
     <Content Include="Resources\ConfigTransformPackage.ico" />
     <Content Include="Resources\MyToolsOptionsPackage.ico" />
